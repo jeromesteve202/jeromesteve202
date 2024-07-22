@@ -14,7 +14,7 @@
 
 ```javascript
 const steve = {
-    code: ["Python", "Java", "C", "C#", "C++", "Swift", "Javascript", "Typescript", "HTML", "CSS"],
+    code: ["Python", "Typescript", "Java", "C", "Swift", "Javascript"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular"],
@@ -27,7 +27,7 @@ const steve = {
             ml: ["Scikit-learn", "Pandas", "Numpy", "NLTK"]
         },
         mobileApp: ["iOS with Objective C and Swift", "Android"],
-        devOps: ["Docker", "Kubernetes"],
+        devOps: ["Docker", "Kubernetes", "Terraform", "Nginx"],
         cloud: ["AWS", "Azure", "GCP"],
         databases: ["MongoDB", "SQL"],
     },
