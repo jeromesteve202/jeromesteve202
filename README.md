@@ -5,7 +5,7 @@
 - 🎓 &nbsp; M.S. in SWE @ George Mason University | B.S. in CS @ George Mason University
 - 💼 &nbsp; Currently a SWE Intern @ Tesla - Fremont, CA
 - 💻 &nbsp; Previously SWE @ AWS | Previously SWE @ Esri
-- 🌱 &nbsp; Interested in backend development, mainly in Distributed Systems and Machine Learning
+- 🌱 &nbsp; Interested in Backend Development, mainly in Distributed Systems and Machine Learning
 - 💰 &nbsp; Currently working on:
   -   **[Zescribe](https://zescribe.ai/)**: Generate Property Listing Descriptions with AI
   -   **[FinalRounds](https://finalrounds.ai/)**: Prepare for technical interviews using AI
