@@ -23,12 +23,12 @@ const steve = {
         backEnd: {
             java: ["Spring"],
             js: ["NodeJS", "Express", "NestJS"],
-            python: ["Django", "Flask"]
+            python: ["Django", "Flask"],
             ml: ["Scikit-learn", "Pandas", "Numpy", "NLTK"]
         },
         mobileApp: ["iOS with Objective C and Swift", "Android"],
         devOps: ["Docker", "Kubernetes"],
-        cloud: ["AWS", "Azure", "GCP"]
+        cloud: ["AWS", "Azure", "GCP"],
         databases: ["MongoDB", "SQL"],
     },
 };
