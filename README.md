@@ -14,10 +14,10 @@
 
 ```javascript
 const steve = {
-    code: ["Python", "Typescript", "Java", "C", "Swift", "Javascript"],
+    code: ["Python", "Typescript", "Java", "C", "Swift", "Javascript", "GraphQL"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
+            js: ["React", "Angular", "NextJS"],
             css: ["Tailwind", "Aceternity", "Bootstrap"]
         },
         backEnd: {
