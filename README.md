@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; M.S. in SWE @ George Mason University | B.S. in CS @ George Mason University
-- 💼 &nbsp; Currently a SWE Intern @ Tesla - Fremont, CA
+- 💼 &nbsp; Currently SWE Intern @ Tesla - Fremont, CA
 - 💻 &nbsp; Previously SWE @ AWS | Previously SWE @ Esri
 - 🌱 &nbsp; Interested in Backend Development, mainly in Distributed Systems and Machine Learning
 
