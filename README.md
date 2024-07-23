@@ -6,9 +6,6 @@
 - 💼 &nbsp; Currently a SWE Intern @ Tesla - Fremont, CA
 - 💻 &nbsp; Previously SWE @ AWS | Previously SWE @ Esri
 - 🌱 &nbsp; Interested in Backend Development, mainly in Distributed Systems and Machine Learning
-- 💰 &nbsp; Currently working on:
-  -   **[Zescribe](https://zescribe.ai/)**: Generate Property Listing Descriptions with AI
-  -   **[FinalRounds](https://finalrounds.ai/)**: Prepare for technical interviews using AI
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
