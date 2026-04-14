@@ -8,25 +8,3 @@
 - 🌱 &nbsp; Interested in Backend Development, mainly in Distributed Systems and Machine Learning
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-```javascript
-const steve = {
-    code: ["Python", "Typescript", "Java", "C", "Swift", "Javascript", "GraphQL"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Angular", "NextJS"],
-            css: ["Tailwind", "Aceternity", "Bootstrap"]
-        },
-        backEnd: {
-            java: ["Spring"],
-            js: ["NodeJS", "Express", "NestJS"],
-            python: ["Django", "Flask"],
-            ml: ["Scikit-learn", "Pandas", "Numpy", "NLTK"]
-        },
-        mobileApp: ["iOS with Objective C and Swift", "Android"],
-        devOps: ["Docker", "Kubernetes", "Terraform", "Nginx"],
-        cloud: ["AWS", "Azure", "GCP"],
-        databases: ["MongoDB", "SQL"],
-    },
-};
-```
